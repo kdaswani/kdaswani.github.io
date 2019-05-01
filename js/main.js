@@ -27,11 +27,3 @@ realestateButtonClose.addEventListener('click',function (){
 })
 
 
-
-// var submitButton = document.querySelector('#submit-button');
-
-// submitButton.addEventListener('click', function (){
-//     console.log('clicked submit')
-//     alert('Thanks for your submission!');
-// })
-
